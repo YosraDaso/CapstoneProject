@@ -1,0 +1,74 @@
+1. Test Group List
+The following list includes 32 books historically attributed to Al-Ghazali.
+Some of these works have been widely accepted as authentic, while others are considered pseudo-Ghazalian.
+•	Al-Adab fi al-Din 
+•	Al-Ajwiba al-Ghazaliyya fi al-Masa'il al-Akhrawiyya al-Madnun al-Saghir 
+•	Al-Durra al-Fakhira fi Kashf 'Ulum al-Akhira 
+•	Al-Hikma fi Makhluqat Allah 
+•	Al-Iqtisad fi al-I'tiqad 
+•	Iljam al-'Awam 'an 'Ilm al-Kalam 
+•	Al-Kashf wa al-Tabyin fi Ghurur al-Khalq Ajma'in 
+•	Al-Madnun bihi 'ala Ghayr Ahlihi 
+•	Al-Mankhul min Ta'aliqat al-Usul 
+•	Al-Maqsad al-Asna 
+•	Al-Mawa'idh fi al-Ahadith al-Qudsiyya 
+•	Al-Munqidh min al-Dalal 
+•	Al-Qawa'id al-'Ashr 
+•	Al-Qistas al-Mustaqim 
+•	Al-Risala al-Wa'zhiya 
+•	Al-Risala al-Ladunniyya 
+•	Al-Wasit fi al-Madhhab 
+•	Ayyuha al-Walad 
+•	Bidayat al-Hidaya 
+•	Fadaih al-Batiniyya 
+•	Faysal al-Tafriqa bayn al-Islam wa al-Zandaqa 
+•	Ihya' 'Ulum al-Din 
+•	Khulasa al-Tasanif fi al-Tasawwuf 
+•	Ma'arij al-Quds fi Madarij Ma'rifat al-Nafs 
+•	Minhaj al-'Arifin 
+•	Mishkat al-Anwar 
+•	Mizan al-'Amal 
+•	Qanun al-Ta'wil 
+•	Qawa'id al-'Aqa'id 
+•	Rawdat al-Talibin wa-'Umdat al-Salikin 
+•	Risalat al-Tayr Dhikr al-'Anqa' 
+•	Tahafut al-Falasifa 
+
+2. Impostors Group Books
+This list is organized according to the folder structure in the Run Environment/impostors_group directory, where each folder 
+represents a specific author or impostor and contains their corresponding texts.
+•	Author 1 – Abū Bakr al-Ṭurṭūshī
+  o	Impostor 1 – Sirāj al-Mulūk
+  o	Impostor 2 – al-Ḥawādith wa-l-Bidaʿ
+•	Author 2 – Abū Bakr ibn al-ʿArabī
+  o	Impostor 1 – al-ʿAwāṣim min al-Qawāṣim
+  o	Impostor 2 – ʿĀriḍat al-Aḥwadhī
+•	Author 3 – Ibn Taymiyyah
+  o	Impostor 1 – al-Istiqāmah
+  o	Impostor 2 – Majmūʿ al-Fatāwá
+  o	Impostor 3 – Minhāj al-Sunnah al-Nabawiyyah fī Naqḍ Kalām al-Shīʿah al-Qadariyyah
+•	Author 4 – Ibn Rushd (grandfather) 
+  o	Impostor 1 – al-Bayān wa-l-Taḥṣīl
+  o	Impostor 2 – al-Muqaddimāt al-Mumahhadāt
+  o	Impostor 3 – Masāʾil Abī al-Walīd Ibn Rushd
+•	Author 5 – Ibn Sīnā
+  o	Impostor 1 – al-Shifāʾ: al-Ilāhiyyāt
+  o	Impostor 2 – al-Qānūn fī al-Ṭibb
+•	Author 6 – al-Juwaynī Abū al-Maʿālī
+  o	Impostor 1 – al-Burhān fī Uṣūl al-Fiqh
+  o	Impostor 2 – Ghayāth al-Umam fī Iltiyāth al-Ẓulam
+  o	Impostor 3 – Nihāyat al-Maṭlab fī Dirāyat al-Madhhab
+•	Author 7 – al-Fārābī
+  o	Impostor 1 – Ārāʾ Ahl al-Madīnah al-Fāḍilah
+  o	Impostor 2 – al-Ḥurūf
+•	Author 8 – Ibn Khaldūn
+  o	Impostor 1 – Riḥlat Ibn Khaldūn
+  o	Impostor 2 – Tārīkh Ibn Khaldūn
+  o	Impostor 3 – Tārīkh Ibn Khaldūn – Iḥyāʾ al-Turāth
+•	Author 9 – Ibn Qudāmah al-Maqdisī
+  o	Impostor 1 – al-Kāfī fī Fiqh al-Imām Aḥmad
+  o	Impostor 2 – al-Mughnī
+•	Author 10 – Ibn Rushd al-Ḥafīd
+  o	Impostor 1 – Talkhīṣ Kitāb al-Maqūlāt
+  o	Impostor 2 – Talkhīṣ al-Kawn wa-l-Fasād
+  o	Impostor 3 – Bidāyat al-Mujtahid wa-Nihāyat al-Muqtaṣid – al-Bābī al-Ḥalabī
