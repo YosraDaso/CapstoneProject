@@ -1,4 +1,4 @@
-# 🕌 Analysis of Medieval Arabic Creations
+# Analysis of Medieval Arabic Creations
 
 ![Workflow Diagram](./assets/workflow_diagram.png)
 ---
@@ -61,10 +61,10 @@ While this project focuses on **Al-Ghazali's writings**, the broader goal is to 
 
 ### 🔍 Clustering & Classification
 
-![K-Means Clustering](./assets/kmeans_clustering.png)
+<img src="./assets/kmeans_clustering.png" alt="Confusion Matrix" width="500"/>
 *Red dots = previously disputed works; Book 22 = known authentic.*
 
-![Confusion Matrix](./assets/confusion_matrix.png)
+<img src="./assets/confusion_matrix.png" alt="Confusion Matrix" width="500"/>
 
 Each value shows the number of books and its percentage out of the full dataset (N = 32).  
 **TP (12)** and **TN (10)** together account for **69% correctly classified texts**.
