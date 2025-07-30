@@ -1,6 +1,7 @@
 # Analysis of Medieval Arabic Creations
 
-![Workflow Diagram](./assets/workflow_diagram.png)
+<img src="./assets/workflow_diagram.png" alt="workflow_diagram" height="500"/>
+
 ---
 
 ## 📘 Introduction & Problem Definition
@@ -61,7 +62,7 @@ While this project focuses on **Al-Ghazali's writings**, the broader goal is to 
 
 ### 🔍 Clustering & Classification
 
-<img src="./assets/kmeans_clustering.png" alt="Confusion Matrix" width="500"/>
+<img src="./assets/kmeans_clustering.png" alt="kmeans_clustering" width="500"/>
 *Red dots = previously disputed works; Book 22 = known authentic.*
 
 <img src="./assets/confusion_matrix.png" alt="Confusion Matrix" width="500"/>
@@ -69,7 +70,7 @@ While this project focuses on **Al-Ghazali's writings**, the broader goal is to 
 Each value shows the number of books and its percentage out of the full dataset (N = 32).  
 **TP (12)** and **TN (10)** together account for **69% correctly classified texts**.
 
-![Cluster Score Profiles](./assets/cluster_profiles.png)
+<img src="./assets/cluster_profiles.jpg" alt="cluster_profiles" width="500"/>
 *Lower anomaly scores = higher stylistic coherence.*
 
 ---
