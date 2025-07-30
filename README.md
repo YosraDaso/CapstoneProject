@@ -66,8 +66,8 @@ While this project focuses on **Al-Ghazali's writings**, the broader goal is to 
 ### 🔍 Clustering & Classification
 
 <div align="center">
-  <img src="./assets/kmeans_clustering.png" alt="K-Means Clustering" width="450"/>
-  <img src="./assets/cluster_profiles.jpg" alt="Cluster Profiles" width="450"/>
+  <img src="./assets/kmeans_clustering.png" alt="K-Means Clustering" width="350"/>
+  <img src="./assets/cluster_profiles.jpg" alt="Cluster Profiles" width="350"/>
 </div>
 
 <div align="center"><em>Left: K-Means Clustering (red = disputed texts, book 22 = authentic)<br>
@@ -78,7 +78,7 @@ Right: Cluster Profiles — Lower scores indicate higher stylistic coherence</em
 ### 📉 Confusion Matrix
 
 <div align="center">
-  <img src="./assets/confusion_matrix.png" alt="Confusion Matrix" width="450"/>
+  <img src="./assets/confusion_matrix.png" alt="Confusion Matrix" width="350"/>
 </div>
 
 <p align="center">
