@@ -62,16 +62,26 @@ While this project focuses on **Al-Ghazali's writings**, the broader goal is to 
 
 ### 🔍 Clustering & Classification
 
-<img src="./assets/kmeans_clustering.png" alt="kmeans_clustering" width="500"/>
-*Red dots = previously disputed works; Book 22 = known authentic.*
+<div align="center">
+  <img src="./assets/kmeans_clustering.png" alt="K-Means Clustering" width="450"/>
+  <img src="./assets/cluster_profiles.jpg" alt="Cluster Profiles" width="450"/>
+</div>
 
-<img src="./assets/confusion_matrix.png" alt="Confusion Matrix" width="500"/>
+<div align="center"><em>Left: K-Means Clustering (red = disputed texts, book 22 = authentic)<br>
+Right: Cluster Profiles — Lower scores indicate higher stylistic coherence</em></div>
 
-Each value shows the number of books and its percentage out of the full dataset (N = 32).  
-**TP (12)** and **TN (10)** together account for **69% correctly classified texts**.
+<br/>
 
-<img src="./assets/cluster_profiles.jpg" alt="cluster_profiles" width="500"/>
-*Lower anomaly scores = higher stylistic coherence.*
+### 📉 Confusion Matrix
+
+<div align="center">
+  <img src="./assets/confusion_matrix.png" alt="Confusion Matrix" width="450"/>
+</div>
+
+<p align="center">
+Each value shows the number of books and its percentage out of the full dataset (N = 32).<br/>
+<b>TP (12)</b> and <b>TN (10)</b> together account for <b>69%</b> correctly classified texts.
+</p>
 
 ---
 
