@@ -1,6 +1,6 @@
 # Analysis of Medieval Arabic Creations
 
-<img src="./assets/workflow_diagram.png" alt="workflow_diagram" height="500"/>
+<img src="./assets/workflow_diagram.png" alt="workflow_diagram" width="450"/>
 
 ---
 
